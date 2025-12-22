@@ -1,0 +1,15 @@
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\bin\Debug\sukkar_arıza_takip.exe.config
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\bin\Debug\sukkar_arıza_takip.exe
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\bin\Debug\sukkar_arıza_takip.pdb
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.csproj.AssemblyReference.cache
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.Form1.resources
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.Properties.Resources.resources
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.csproj.GenerateResource.cache
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.csproj.CoreCompileInputs.cache
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.exe
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.pdb
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.exe.config
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_arıza_takip.Form2.resources
+C:\Users\90530\source\repos\sukkar_arıza_takip\sukkar_arıza_takip\obj\Debug\sukkar_a.7C4D948B.Up2Date
